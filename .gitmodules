@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/airlines"]
+	path = Integrated-Path/airlines
+	url = git@github.com:Integrated-Path/airlines.git
+	branch = master
